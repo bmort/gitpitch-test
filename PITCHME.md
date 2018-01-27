@@ -1,6 +1,6 @@
 # gitpitch-test
 
------ 
+---
 
 ## Slide title
 
@@ -11,3 +11,6 @@ Test code:
 
 }
 ```
+
+---
+# Another slide...
